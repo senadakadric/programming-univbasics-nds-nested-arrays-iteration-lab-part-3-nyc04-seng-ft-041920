@@ -10,6 +10,10 @@ def join_nested_strings(src)
     inner_count = 0
     while inner_count < src[count].length
 
+      if src[count][inner_count].class == Strings
+
+      end
+
       inner_count +=1
     end
 
