@@ -4,5 +4,9 @@ def join_nested_strings(src)
 
   count = 0
   string = ""
-  
+
+  while count < src.length
+
+    count +=1
+  end
 end
